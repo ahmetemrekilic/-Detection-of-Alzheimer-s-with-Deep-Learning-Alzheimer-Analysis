@@ -1,4 +1,4 @@
-# DeepLearning-AlzheimerAnalysis-and-Detection-Turkish
+# DerinOgrenmeileAlzheimerTespiti-AlzheimerAnalizi
 
 Burada analiz kısmında ilk olarak Kaggle'da bulunan alzheimer hastalarına ait bilgilerle, Python kütüphanesine ait olan Pandas,Matplotlib,Seaborn,Cufflinks,Machine learning kütüphaneleri kullanılarak çeşitli görselleştirmeler ve analizler yapıldı.
 
