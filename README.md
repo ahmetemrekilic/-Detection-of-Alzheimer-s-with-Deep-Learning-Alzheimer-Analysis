@@ -1,5 +1,7 @@
-# DerinOgrenmeileAlzheimerTespiti-AlzheimerAnalizi
+#DeepOgrenmeleAlzheimerDetection-AlzheimerAnalysis
 
-Burada analiz kısmında ilk olarak Kaggle'da bulunan alzheimer hastalarına ait bilgilerle, Python kütüphanesine ait olan Pandas,Matplotlib,Seaborn,Cufflinks,Machine learning kütüphaneleri kullanılarak çeşitli görselleştirmeler ve analizler yapıldı.
 
-2.Kısımda Alzheimer-model dosyasında Derin Öğrenme kullanılarak Kaggle'da bulunan Alzhiemer hastalarına ait olan 4 classlı görsellerden yapay zeka modeli eğtilerek %83.84 başarı oranıyla, alzheimer hastalığını tespit eden yapay zeka modeli eğitildi.
+Here, in the analysis part, various visualizations and analyzes were made using the information about Alzheimer's patients in Kaggle and the Pandas, Matplotlib, Seaborn, Cufflinks, Machine learning libraries belonging to the Python library.
+
+
+In the 2nd part, by using Deep Learning in the Alzheimer-model file, the artificial intelligence model was trained from the 4-class images of Alzheimer's patients on Kaggle, and the artificial intelligence model that detects Alzheimer's disease was trained with a success rate of 83.84%.
