@@ -1,4 +1,4 @@
-#DeepOgrenmeleAlzheimerDetection-AlzheimerAnalysis
+#AlzheimerDetection with Deep Learning-AlzheimerAnalysis
 
 
 Here, in the analysis part, various visualizations and analyzes were made using the information about Alzheimer's patients in Kaggle and the Pandas, Matplotlib, Seaborn, Cufflinks, Machine learning libraries belonging to the Python library.
